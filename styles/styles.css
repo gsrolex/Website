@@ -121,7 +121,8 @@ footer p {
   }
   h1 {
     font-size: 50px;
-    margin-bottom: -50px;
+    margin-bottom: -80px;
+    margin-top: -35px;
   }
   .logo {
     display: none;
@@ -131,7 +132,8 @@ footer p {
   }
   .box {
     max-width: 250px;
-    margin-top: 50px;
+    margin-top: 5px;
+    margin-left: 20px;
   }
   .logo {
     padding-left: 50px;
@@ -164,8 +166,8 @@ footer p {
   }
   .mobile {
     display: block;
-    margin-top: -60px;
-    margin-left: -50px;
+    margin-left: -70px;
+    margin-top: 10px;
   }
   .gone {
     display: none;
@@ -174,5 +176,6 @@ footer p {
     display: block;
     max-width: 250px;
     margin-bottom: 40px;
+    padding-left: 25px;
   }
 }
